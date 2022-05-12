@@ -9,4 +9,4 @@ gcc --std=c99 -g smallsh.c -o smallsh
 ```
 
 After compiled, cd into the directory with smallsh.c
-Then you can run the program by entering **samllsh**
+Then you can run the program by entering **smallsh**
