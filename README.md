@@ -1,6 +1,6 @@
 # smallsh
 
-a simple linux shell that can receive commands and parse input/output.
+a simple unix shell that can receive commands and parse input/output.
 
 ### Steps to compile  
 
